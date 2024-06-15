@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="142" class="">
+    <defs>
+        <style/>
+    </defs>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.tracklist{display:flex;flex-direction:column;align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style/>
+    <foreignObject x="0" y="0" width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
+            <section>
+                <h2 class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"/>
+                    </svg>
+                    Suggested tracks
+                </h2>
+                <div class="row fill-width">
+                    <section>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M2.002 2.725a.75.75 0 01.797-.699C8.79 2.42 13.58 7.21 13.974 13.201a.75.75 0 11-1.497.098 10.502 10.502 0 00-9.776-9.776.75.75 0 01-.7-.798zM2 13a1 1 0 112 0 1 1 0 01-2 0zm.84-5.95a.75.75 0 00-.179 1.489c2.509.3 4.5 2.291 4.8 4.8a.75.75 0 101.49-.178A7.003 7.003 0 002.838 7.05z"/>
+                            </svg>
+                            From Apple Music
+                        </div>
+                        <div class="tracklist">
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAUDBAYCBwj/xAAuEAACAQMDAgQGAQUAAAAAAAABAgMABBEFEiETMQYHFEEiMkJRYZEVUnGBobH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAXEQEBAQEAAAAAAAAAAAAAAAAAARES/9oADAMBAAIRAxEAPwDzla+FPEF3BazWui6jLDdcwSJAxWQduDimMHl74lljkf0MSLEzq/UuogVKAFuN2eAy+31D70yi8yby20OxsLO0WGa3tPSPciZg8qiWKRRlQCAOlgDJI3NgjgVWvPMfW5tSu7q1W0tPU790ccW4fHHGjctkkkRIcnnOT70Fubyo8SxTPbPZPHexIJJY5WjQKpLAYO/J+RjwO2D70t0ny/1zUpIkjS3h6tvHdIZZPmjdmCkAAn6G478VqWXzH8TWV1qKX0Vw11CsNwi3UKytEm7BIJzj4mHBzjuMV15PqmrQMbd9SusIiw4S5JUIhyq8HGAeQPY0qNLr/ljr+h+HpdauzZtZRJHI/SmywV32KcY92BH+KKxvrLnoyReom6UmN6bztfHIyM80UEFMNH0yTVbuO2t5oVnkYKiPuyx/GAaX1NbRzSyhLZXaRuMICT/qkK2195dTWNmnV1vSP5MyhTarcZ2r9y396x+p2LafdPBLNG8qMQwQNx+wKktNJvLydoraNZHUMSd4AwO/JOKpSIyn4sn2z7fulVwoooogphbazqNtB0be7kij/pTA/wCUUUDFfEWfDlzptxAJZZZA6ueAvGM4Hv3/AHS611S5gjKdeUKYzDgEfJ328jtRRUxrq27VVmh2narbvz2ooooWv//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Chop Suey!</div>
+                                    <div class="artist">System Of A Down</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcDCP/EADAQAAIBBAACBwYHAAAAAAAAAAECAwAEBRESIQYHEyIxQXEUFVFhgZEzQlJicrLR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAdEQACAgMAAwAAAAAAAAAAAAAAAQIRAxIhMWFx/9oADAMBAAIRAxEAPwDOswVyGSjaygCykjiEZ399cqvM10TyFvj450QupUE8qm9V2Bu81fWV1dSK8IHGw+YOudb++PgW14GQMutVy+h4x2Vnj3splvEjlBQMwHe5D60+WirAw7HH45H/AJTa/vTv0u6J2k10ZLdF2DvWvCkXL2q2UgWXtYSPqp9N+FPaF6mX7X140cZ90W0XZ7PHFIW39zRVZhsvYoBG6NMf3tsfYcqKNYPrH2ZG6s89eY3DmazCutvsSIeR148q0HF9bVm0iR3kTcTa/DHFr1rKOrLI47HCX3nIwhkkCkAeXx9K03CXXQ2LISG3aFp3bfEy+PpUpckxsabiWGe6QxZC/tpLJHCKO85XQb/amRSY68iC3sET8vzLUthibjnE6H4Uu5qBrV+OAgx+VbK11GfS3GHwEo2lnAp+S6NFKcOSKHvMR9aKTdhSMOsFb2hVfiCMdNoeVMMvR2UShba8BPlxEiiir5XTJYulpYWmctW4Ib9Tr9XMUw2uayUaCK8ZJR8VoornlJlpLwdWb2jRCEUUUVOwUUf/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Mutter</div>
+                                    <div class="artist">Rammstein</div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </section>
+        </div>
+        <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
+    </foreignObject>
+</svg>
